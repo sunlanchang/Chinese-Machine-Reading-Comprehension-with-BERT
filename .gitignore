@@ -2,7 +2,7 @@ chinese*
 exported
 multi_*
 uncased*
-squad/*.json
+squad/*
 
 
 
